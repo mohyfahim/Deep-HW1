@@ -2,3 +2,4 @@ venv
 *.csv
 .ipynb*
 summary/
+videos/
