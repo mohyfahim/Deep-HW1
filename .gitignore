@@ -1,6 +1,7 @@
 venv
 *.csv
 .ipynb*
-summary/
 videos/
-model/
+model/Adam/*
+model/SGD/
+!model/Adam/augment/
